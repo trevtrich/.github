@@ -6,6 +6,7 @@ repository:
   has_downloads: true
 
   default_branch: master
+  delete_branch_on_merge: true
 
   allow_squash_merge: true
   allow_merge_commit: true
